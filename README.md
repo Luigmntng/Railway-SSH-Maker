@@ -8,7 +8,8 @@
 * Read this Before Deploy : [Term Of Service Railway](https://railway.app/legal/fair-use)
 
 ## Deploy Now!
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/QV_3HO?referralCode=AWGaGe
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/QV_3HO?referralCode=AWGaGe)
+
 ## Update 🔥
 * Change Os From Debian To Ubuntu.
 * More Stable Container.
