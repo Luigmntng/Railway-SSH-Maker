@@ -18,6 +18,6 @@
 * Replace Old Link To New
 
 ## Found Bug 🐛?
-Dm Me! [Contact](t.me/plexavor)
+Dm Me! [Contact](https://t.me/plexavor)
 
 Have A Good Day 🌟
